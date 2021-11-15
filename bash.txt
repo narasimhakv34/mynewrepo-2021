@@ -1,1 +1,2 @@
-learnig gitbash basics 
+learnig gitbash basics
+git is cool
