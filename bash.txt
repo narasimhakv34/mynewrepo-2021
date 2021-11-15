@@ -1,3 +1,4 @@
 learnig gitbash basics
 git is cool
 git is awesome
+git commit task-2
