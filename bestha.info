@@ -3,5 +3,10 @@ second try
 Devops and aws
 git is awesome
 gitpush with git fetch
+<<<<<<< HEAD
 checking for git diff
 checking confilcts
+=======
+checking for git diff 
+git conflicts
+>>>>>>> f0b478542d29f44bca564546eccf2c78713abde2
