@@ -1,3 +1,7 @@
 learnig git basics
 git is lightweight
+<<<<<<< HEAD
+git is awesome and light weight
+=======
 git branching try
+>>>>>>> main
