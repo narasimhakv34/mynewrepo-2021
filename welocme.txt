@@ -1,1 +1,2 @@
 learnig git basics
+git is lightweight
